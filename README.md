@@ -1,2 +1,2 @@
 # bipedal-robot-learning-collection
-Collection of high-quality robo learning papers for bipedal robots.
+This repo contains links for high-quality robo learning papers for bipedal robots, which may do a service for easy writing of literature review in papers.
