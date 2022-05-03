@@ -5,3 +5,5 @@
 ------  
 /* Created by [Chong Zhang](https://zita-ch.github.io/) @ Tsinghua University / ETH Zurich.  */
 ------  
++ Cassie  
++ + Xie, Zhaoming, et al. "Feedback control for cassie with deep reinforcement learning." 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2018.  
