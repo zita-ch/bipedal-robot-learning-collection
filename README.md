@@ -1,5 +1,5 @@
 # bipedal-robot-learning-collection  
-+ This repo is a collection for high-quality robotics papers, with specialization on **bipedal robots** and **reinforcement learning** with **real robot experiments**. Papers on common learning methods which are verified on quadrupedal robots, Bayesian optimization, CBF learning, etc., are temporarily excluded.       
++ This repo is a collection for high-quality robotics papers, with specialization on **bipedal robots** and **reinforcement learning** with **real robot experiments**. Papers on common learning techniques verified on quadrupedal robots, Bayesian optimization, CBF learning, etc., are temporarily excluded.       
 + I hope this can do a service for easy writing of literature review in papers. Abstracts or brief descriptions will later be added.     
 + Welcome to contribute by nominating new papers in Issues.    
  
