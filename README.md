@@ -14,7 +14,8 @@
   - Duan, Helei, et al. "Learning task space actions for bipedal locomotion." 2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021.  
   - Siekmann, Jonah, et al. "Sim-to-real learning of all common bipedal gaits via periodic reward composition." 2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021.  
   - Castillo, Guillermo A., et al. "Robust feedback motion policy design using reinforcement learning on a 3D digit bipedal robot." 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2021.
-  - Dao, Jeremy, et al. "Sim-to-Real Learning for Bipedal Locomotion Under Unsensed Dynamic Loads." 2022 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2022.
+  - Dao, Jeremy, et al. "Sim-to-Real Learning for Bipedal Locomotion Under Unsensed Dynamic Loads." 2022 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2022.  
+  - Duan, Helei, et al. "Sim-to-Real Learning of Footstep-Constrained Bipedal Dynamic Walking." 2022 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2022.  
   - Rajan, Lokesh Krishna, et al. "Linear Policies are Sufficient to Realize Robust Bipedal Walking on Challenging Terrains." IEEE Robotics and Automation Letters (2022).  
   - More to be added
 
