@@ -25,7 +25,7 @@
   - Yu, Wenhao, et al. "Sim-to-real transfer for biped locomotion." 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2019.
   - Bloesch, Michael, et al. "Towards Real Robot Learning in the Wild: A Case Study in Bipedal Locomotion." Conference on Robot Learning. PMLR, 2022.
   - Bohez, Steven, et al. "Imitate and Repurpose: Learning Reusable Robot Movement Skills From Human and Animal Behaviors." arXiv preprint arXiv:2203.17138 (2022).
-  - Sim-to-Real Learning of Robust Compliant Bipedal Locomotion on Torque Sensor-Less Gear-Driven Humanoid
+  - Masuda, Shimpei, and Kuniyuki Takahashi. "Sim-to-Real Learning of Robust Compliant Bipedal Locomotion on Torque Sensor-Less Gear-Driven Humanoid." arXiv preprint arXiv:2204.03897 (2022).
   - More to be added
 
 + Other Platforms  
