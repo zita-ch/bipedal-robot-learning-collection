@@ -18,12 +18,14 @@
   - Duan, Helei, et al. "Sim-to-Real Learning of Footstep-Constrained Bipedal Dynamic Walking." 2022 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2022.  
   - Rajan, Lokesh Krishna, et al. "Linear Policies are Sufficient to Realize Robust Bipedal Walking on Challenging Terrains." IEEE Robotics and Automation Letters (2022).  
   - Duan, Helei, et al. "Learning Dynamic Bipedal Walking Across Stepping Stones." arXiv preprint arXiv:2205.01807 (2022). 
+  - Kumar, Ashish, et al. "Adapting Rapid Motor Adaptation for Bipedal Robots." arXiv preprint arXiv:2205.15299 (2022).
   - More to be added
 
 + Darwin OPx  
   - Yu, Wenhao, et al. "Sim-to-real transfer for biped locomotion." 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2019.
   - Bloesch, Michael, et al. "Towards Real Robot Learning in the Wild: A Case Study in Bipedal Locomotion." Conference on Robot Learning. PMLR, 2022.
   - Bohez, Steven, et al. "Imitate and Repurpose: Learning Reusable Robot Movement Skills From Human and Animal Behaviors." arXiv preprint arXiv:2203.17138 (2022).
+  - Sim-to-Real Learning of Robust Compliant Bipedal Locomotion on Torque Sensor-Less Gear-Driven Humanoid
   - More to be added
 
 + Other Platforms  
