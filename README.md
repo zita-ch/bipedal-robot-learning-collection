@@ -18,7 +18,8 @@
   - Duan, Helei, et al. "Sim-to-Real Learning of Footstep-Constrained Bipedal Dynamic Walking." 2022 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2022.  
   - Rajan, Lokesh Krishna, et al. "Linear Policies are Sufficient to Realize Robust Bipedal Walking on Challenging Terrains." IEEE Robotics and Automation Letters (2022).  
   - Duan, Helei, et al. "Learning Dynamic Bipedal Walking Across Stepping Stones." arXiv preprint arXiv:2205.01807 (2022). 
-  - Kumar, Ashish, et al. "Adapting Rapid Motor Adaptation for Bipedal Robots." arXiv preprint arXiv:2205.15299 (2022).
+  - Kumar, Ashish, et al. "Adapting Rapid Motor Adaptation for Bipedal Robots." arXiv preprint arXiv:2205.15299 (2022).  
+  - Batke, Ryan, et al. "Optimizing Bipedal Maneuvers of Single Rigid-Body Models for Reinforcement Learning." arXiv preprint arXiv:2207.04163 (2022).   
   - More to be added
 
 + Darwin OPx  
