@@ -20,6 +20,7 @@
   - Duan, Helei, et al. "Learning Dynamic Bipedal Walking Across Stepping Stones." arXiv preprint arXiv:2205.01807 (2022). 
   - Kumar, Ashish, et al. "Adapting Rapid Motor Adaptation for Bipedal Robots." arXiv preprint arXiv:2205.15299 (2022).  
   - Batke, Ryan, et al. "Optimizing Bipedal Maneuvers of Single Rigid-Body Models for Reinforcement Learning." arXiv preprint arXiv:2207.04163 (2022).   
+  - Yu, Fangzhou, et al. "Dynamic Bipedal Maneuvers through Sim-to-Real Reinforcement Learning." arXiv preprint arXiv:2207.07835 (2022).  
   - More to be added
 
 + Darwin OPx  
