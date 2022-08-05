@@ -5,6 +5,7 @@
  
 ------  
 + Cassie and Digit   
+The cassie simulatoin environment: [link](https://github.com/osudrl/cassie-mujoco-sim)    
   - Xie, Zhaoming, et al. "Feedback control for cassie with deep reinforcement learning." 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2018.  
   - Xie, Zhaoming, et al. "Learning locomotion skills for cassie: Iterative design and sim-to-real." Conference on Robot Learning. PMLR, 2020.   
   - Siekmann, Jonah, et al. "Learning Memory-Based Control for Human-Scale Bipedal Locomotion." Robotics science and systems. 2020.
