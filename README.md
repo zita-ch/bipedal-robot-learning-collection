@@ -33,6 +33,7 @@ The cassie simulatoin environment: [link](https://github.com/osudrl/cassie-mujoc
 
 + Other Platforms  
   - Li, Tianyu, et al. "Using deep reinforcement learning to learn high-level policies on the atrias biped." 2019 International Conference on Robotics and Automation (ICRA). IEEE, 2019.
-  - Rodriguez, Diego, and Sven Behnke. "DeepWalk: Omnidirectional bipedal gait by deep reinforcement learning." 2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021.
+  - Rodriguez, Diego, and Sven Behnke. "DeepWalk: Omnidirectional bipedal gait by deep reinforcement learning." 2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021.   
+  - Yu, Chen, and Andre Rosendo. "Multi-Modal Legged Locomotion Framework with Automated Residual Reinforcement Learning." arXiv preprint arXiv:2202.12033 (2022).  
   - More to be added
 
