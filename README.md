@@ -28,12 +28,14 @@ The cassie simulatoin environment: [link](https://github.com/osudrl/cassie-mujoc
   - Yu, Wenhao, et al. "Sim-to-real transfer for biped locomotion." 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2019.
   - Bloesch, Michael, et al. "Towards Real Robot Learning in the Wild: A Case Study in Bipedal Locomotion." Conference on Robot Learning. PMLR, 2022.
   - Bohez, Steven, et al. "Imitate and Repurpose: Learning Reusable Robot Movement Skills From Human and Animal Behaviors." arXiv preprint arXiv:2203.17138 (2022).
-  - Masuda, Shimpei, and Kuniyuki Takahashi. "Sim-to-Real Learning of Robust Compliant Bipedal Locomotion on Torque Sensor-Less Gear-Driven Humanoid." arXiv preprint arXiv:2204.03897 (2022).
+  - Masuda, Shimpei, and Kuniyuki Takahashi. "Sim-to-Real Learning of Robust Compliant Bipedal Locomotion on Torque Sensor-Less Gear-Driven Humanoid." arXiv preprint arXiv:2204.03897 (2022).  
+  - Byravan, Arunkumar, et al. "NeRF2Real: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields." arXiv preprint arXiv:2210.04932 (2022).  
   - More to be added
 
 + Other Platforms  
   - Li, Tianyu, et al. "Using deep reinforcement learning to learn high-level policies on the atrias biped." 2019 International Conference on Robotics and Automation (ICRA). IEEE, 2019.
   - Rodriguez, Diego, and Sven Behnke. "DeepWalk: Omnidirectional bipedal gait by deep reinforcement learning." 2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021.   
   - Yu, Chen, and Andre Rosendo. "Multi-Modal Legged Locomotion Framework with Automated Residual Reinforcement Learning." arXiv preprint arXiv:2202.12033 (2022).  
+  - Singh, Rohan Pratap, et al. "Learning Bipedal Walking On Planned Footsteps For Humanoid Robots." arXiv preprint arXiv:2207.12644 (2022).   
   - More to be added
 
