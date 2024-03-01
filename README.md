@@ -43,17 +43,17 @@
 
 + Cassie and Digit   
   The cassie simulatoin environment: [link](https://github.com/osudrl/cassie-mujoco-sim)    
-  - Xie, Zhaoming, et al. "Feedback control for cassie with deep reinforcement learning." 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2018.  
+  - **Xie, Zhaoming, et al. "Feedback control for cassie with deep reinforcement learning." 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2018. ** 
   - Xie, Zhaoming, et al. "Learning locomotion skills for cassie: Iterative design and sim-to-real." Conference on Robot Learning. PMLR, 2020.   
   - Siekmann, Jonah, et al. "Learning Memory-Based Control for Human-Scale Bipedal Locomotion." Robotics science and systems. 2020.
-  - Siekmann, Jonah, et al. "Blind bipedal stair traversal via sim-to-real reinforcement learning." Robotics science and systems. 2021.  
-  - Green, Kevin, et al. "Learning spring mass locomotion: Guiding policies with a reduced-order model." IEEE Robotics and Automation Letters 6.2 (2021): 3926-3932.
-  - Li, Zhongyu, et al. "Reinforcement learning for robust parameterized locomotion control of bipedal robots." 2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021.   
-  - Duan, Helei, et al. "Learning task space actions for bipedal locomotion." 2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021.  
-  - Siekmann, Jonah, et al. "Sim-to-real learning of all common bipedal gaits via periodic reward composition." 2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021.  
+  - **Siekmann, Jonah, et al. "Blind bipedal stair traversal via sim-to-real reinforcement learning." Robotics science and systems. 2021.**  
+  - **Green, Kevin, et al. "Learning spring mass locomotion: Guiding policies with a reduced-order model." IEEE Robotics and Automation Letters 6.2 (2021): 3926-3932.**
+  - **Li, Zhongyu, et al. "Reinforcement learning for robust parameterized locomotion control of bipedal robots." 2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021.   **
+  - **Duan, Helei, et al. "Learning task space actions for bipedal locomotion." 2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021.**  
+  - **Siekmann, Jonah, et al. "Sim-to-real learning of all common bipedal gaits via periodic reward composition." 2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021.**  
   - Castillo, Guillermo A., et al. "Robust feedback motion policy design using reinforcement learning on a 3D digit bipedal robot." 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2021.
   - Dao, Jeremy, et al. "Sim-to-Real Learning for Bipedal Locomotion Under Unsensed Dynamic Loads." 2022 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2022.  
-  - Duan, Helei, et al. "Sim-to-Real Learning of Footstep-Constrained Bipedal Dynamic Walking." 2022 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2022.  
+  - **Duan, Helei, et al. "Sim-to-Real Learning of Footstep-Constrained Bipedal Dynamic Walking." 2022 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2022.**  
   - Rajan, Lokesh Krishna, et al. "Linear Policies are Sufficient to Realize Robust Bipedal Walking on Challenging Terrains." IEEE Robotics and Automation Letters (2022).  
   - Duan, Helei, et al. "Learning Dynamic Bipedal Walking Across Stepping Stones." arXiv preprint arXiv:2205.01807 (2022). 
   - Kumar, Ashish, et al. "Adapting Rapid Motor Adaptation for Bipedal Robots." arXiv preprint arXiv:2205.15299 (2022).  
@@ -69,7 +69,7 @@
   - More to be added
 + Other Platforms  
   - Li, Tianyu, et al. "Using deep reinforcement learning to learn high-level policies on the atrias biped." 2019 International Conference on Robotics and Automation (ICRA). IEEE, 2019.
-  - Rodriguez, Diego, and Sven Behnke. "DeepWalk: Omnidirectional bipedal gait by deep reinforcement learning." 2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021.   
+  - **Rodriguez, Diego, and Sven Behnke. "DeepWalk: Omnidirectional bipedal gait by deep reinforcement learning." 2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021.** (first adule-size humanoid end2end learning with real world results)   
   - Yu, Chen, and Andre Rosendo. "Multi-Modal Legged Locomotion Framework with Automated Residual Reinforcement Learning." arXiv preprint arXiv:2202.12033 (2022).  
   - Singh, Rohan Pratap, et al. "Learning Bipedal Walking On Planned Footsteps For Humanoid Robots." arXiv preprint arXiv:2207.12644 (2022).   
   - Gams, A., Petrič, T., Nemec, B. *et al.* Manipulation Learning on Humanoid Robots. *Curr Robot Rep* **3**, 97–109 (2022). https://doi.org/10.1007/s43154-022-00082-9
