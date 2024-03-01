@@ -32,7 +32,7 @@
 - Castillo, Guillermo A., et al. "Template model inspired task space learning for robust bipedal locomotion." *2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. IEEE, 2023.
 - Cheng, Xuxin, et al. "Expressive Whole-Body Control for Humanoid Robots." arXiv preprint arXiv:2402.16796 (2024). 
 - Zhang, Qiang, et al. "Whole-body Humanoid Robot Locomotion with Human Reference." arXiv preprint arXiv:2402.18294 (2024). 
-- **Radosavovic, I., Zhang, B., Shi, B., Rajasegaran, J., Kamat, S., Darrell, T., … Malik, J. (2024). Humanoid Locomotion as Next Token Prediction. arXiv preprint arXiv: 2402.19469 (2024).** (Although the authors seem to have a weak RL baseline, being able to scale with various dynamics-mismatching offline data source and outperform the RL controller can be promising)    
+- **Radosavovic, I., Zhang, B., Shi, B., Rajasegaran, J., Kamat, S., Darrell, T., … Malik, J. (2024). Humanoid Locomotion as Next Token Prediction. arXiv preprint arXiv: 2402.19469 (2024).** _(Although the authors seem to have a weak RL baseline, being able to scale with various dynamics-mismatching offline data source and outperform the RL controller can be promising)_    
 - 
 
 
@@ -69,7 +69,7 @@
   - More to be added
 + Other Platforms  
   - Li, Tianyu, et al. "Using deep reinforcement learning to learn high-level policies on the atrias biped." 2019 International Conference on Robotics and Automation (ICRA). IEEE, 2019.
-  - **Rodriguez, Diego, and Sven Behnke. "DeepWalk: Omnidirectional bipedal gait by deep reinforcement learning." 2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021.** (first adule-size humanoid end2end learning with real world results)   
+  - **Rodriguez, Diego, and Sven Behnke. "DeepWalk: Omnidirectional bipedal gait by deep reinforcement learning." 2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021.** _(first adule-size humanoid end2end learning with real world results)_   
   - Yu, Chen, and Andre Rosendo. "Multi-Modal Legged Locomotion Framework with Automated Residual Reinforcement Learning." arXiv preprint arXiv:2202.12033 (2022).  
   - Singh, Rohan Pratap, et al. "Learning Bipedal Walking On Planned Footsteps For Humanoid Robots." arXiv preprint arXiv:2207.12644 (2022).   
   - Gams, A., Petrič, T., Nemec, B. *et al.* Manipulation Learning on Humanoid Robots. *Curr Robot Rep* **3**, 97–109 (2022). https://doi.org/10.1007/s43154-022-00082-9
