@@ -48,7 +48,7 @@
   - Siekmann, Jonah, et al. "Learning Memory-Based Control for Human-Scale Bipedal Locomotion." Robotics science and systems. 2020.
   - **Siekmann, Jonah, et al. "Blind bipedal stair traversal via sim-to-real reinforcement learning." Robotics science and systems. 2021.**  
   - **Green, Kevin, et al. "Learning spring mass locomotion: Guiding policies with a reduced-order model." IEEE Robotics and Automation Letters 6.2 (2021): 3926-3932.**
-  - **Li, Zhongyu, et al. "Reinforcement learning for robust parameterized locomotion control of bipedal robots." 2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021.   **
+  - **Li, Zhongyu, et al. "Reinforcement learning for robust parameterized locomotion control of bipedal robots." 2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021.** 
   - **Duan, Helei, et al. "Learning task space actions for bipedal locomotion." 2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021.**  
   - **Siekmann, Jonah, et al. "Sim-to-real learning of all common bipedal gaits via periodic reward composition." 2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021.**  
   - Castillo, Guillermo A., et al. "Robust feedback motion policy design using reinforcement learning on a 3D digit bipedal robot." 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2021.
