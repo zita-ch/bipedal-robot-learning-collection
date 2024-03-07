@@ -32,7 +32,8 @@
 - Castillo, Guillermo A., et al. "Template model inspired task space learning for robust bipedal locomotion." *2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. IEEE, 2023.
 - Cheng, Xuxin, et al. "Expressive Whole-Body Control for Humanoid Robots." arXiv preprint arXiv:2402.16796 (2024). 
 - Zhang, Qiang, et al. "Whole-body Humanoid Robot Locomotion with Human Reference." arXiv preprint arXiv:2402.18294 (2024). 
-- **Radosavovic, I., Zhang, B., Shi, B., Rajasegaran, J., Kamat, S., Darrell, T., … Malik, J. (2024). Humanoid Locomotion as Next Token Prediction. arXiv preprint arXiv: 2402.19469 (2024).** _(Although the authors seem to have a weak RL baseline, being able to scale with various dynamics-mismatching offline data source and outperform the RL controller can be promising)_    
+- **Radosavovic, I., Zhang, B., Shi, B., Rajasegaran, J., Kamat, S., Darrell, T., … Malik, J. (2024). Humanoid Locomotion as Next Token Prediction. arXiv preprint arXiv: 2402.19469 (2024).** _(Although the authors seem to have a weak RL baseline, being able to scale with various dynamics-mismatching offline data source and outperform the RL controller can be promising)_
+- **He, T., Luo, Z., Xiao, W., Zhang, C., Kitani, K., Liu, C., & Shi, G. (2024). Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation. https://human2humanoid.com/.** _(I'm shameless: this is my own work.)_  
 - 
 
 
