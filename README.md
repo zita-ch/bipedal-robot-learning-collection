@@ -13,7 +13,7 @@
 ---
 
 - Singh, Rohan P., et al. "Learning bipedal walking for humanoids with current feedback." *IEEE Access* (2023).
-- Radosavovic, Ilija, et al. "Learning Humanoid Locomotion with Transformers." *arXiv preprint arXiv:2303.03381* (2023). *I recommend reading v1 on top of v2 for more technical details despite some later-removed false claims"*
+- Radosavovic, Ilija, et al. "Real-world humanoid locomotion with reinforcement learning." Science Robotics 9.89 (2024): eadi9579. *(I recommend reading arxiv 2303.03381 v1 for more technical details despite some later-revised contents)*  
 - Jeon, Se Hwan, et al. "Benchmarking potential based rewards for learning humanoid locomotion." *2023 IEEE International Conference on Robotics and Automation (ICRA)*. IEEE, 2023.
 - C. -Y. Kuo, H. Shin and T. Matsubara, "Reinforcement Learning With Energy-Exchange Dynamics for Spring-Loaded Biped Robot Walking," in *IEEE Robotics and Automation Letters*, vol. 8, no. 10, pp. 6243-6250, Oct. 2023
 - **Dao, Jeremy, Helei Duan, and Alan Fern. "Sim-to-Real Learning for Humanoid Box Loco-Manipulation." *arXiv preprint arXiv:2310.03191* (2023).**
@@ -28,13 +28,14 @@
 - **Li, Zhongyu, et al. "Reinforcement Learning for Versatile, Dynamic, and Robust Bipedal Locomotion Control." *arXiv preprint arXiv:2401.16889* (2024).**
 - **Li, Zhongyu, et al. "Robust and versatile bipedal jumping control through multi-task reinforcement learning." *arXiv preprint arXiv:2302.09450* (2023).**
 - Li, Yunfei, et al. "Learning Agile Bipedal Motions on a Quadrupedal Robot." *arXiv preprint arXiv:2311.05818* (2023).
-- **Haarnoja, Tuomas, et al. "Learning agile soccer skills for a bipedal robot with deep reinforcement learning." *arXiv preprint arXiv:2304.13653* (2023).**
+- **Haarnoja, Tuomas, et al. "Learning agile soccer skills for a bipedal robot with deep reinforcement learning." Science Robotics 9.89 (2024): eadi8022.**  
 - Castillo, Guillermo A., et al. "Template model inspired task space learning for robust bipedal locomotion." *2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. IEEE, 2023.
 - Cheng, Xuxin, et al. "Expressive Whole-Body Control for Humanoid Robots." arXiv preprint arXiv:2402.16796 (2024). 
 - Zhang, Qiang, et al. "Whole-body Humanoid Robot Locomotion with Human Reference." arXiv preprint arXiv:2402.18294 (2024). 
-- Radosavovic, I., Zhang, B., Shi, B., Rajasegaran, J., Kamat, S., Darrell, T., … Malik, J. (2024). Humanoid Locomotion as Next Token Prediction. arXiv preprint arXiv: 2402.19469 (2024). _(be cautious about the takeaways)_  
+- Radosavovic, I., Zhang, B., Shi, B., Rajasegaran, J., Kamat, S., Darrell, T., … Malik, J. (2024). Humanoid Locomotion as Next Token Prediction. arXiv preprint arXiv: 2402.19469 (2024).     
 - **He, T., Luo, Z., Xiao, W., Zhang, C., Kitani, K., Liu, C., & Shi, G. (2024). Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation. https://human2humanoid.com/.** _(I'm shameless: this is my own work.)_  
-- Xinyang Gu, Yen-Jen Wang, Jianyu Chen. "Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer." (2024 https://arxiv.org/abs/2404.05695, https://github.com/roboterax/humanoid-gym).     
+- Xinyang Gu, Yen-Jen Wang, Jianyu Chen. "Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer." (2024 https://arxiv.org/abs/2404.05695, https://github.com/roboterax/humanoid-gym).
+- **van Marum, Bart, et al. "Revisiting Reward Design and Evaluation for Robust Humanoid Standing and Walking." arXiv preprint arXiv:2404.19173 (2024).**            
 
 
 
