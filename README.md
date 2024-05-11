@@ -35,7 +35,7 @@
 - Radosavovic, I., Zhang, B., Shi, B., Rajasegaran, J., Kamat, S., Darrell, T., … Malik, J. (2024). Humanoid Locomotion as Next Token Prediction. arXiv preprint arXiv: 2402.19469 (2024).     
 - **He, T., Luo, Z., Xiao, W., Zhang, C., Kitani, K., Liu, C., & Shi, G. (2024). Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation. https://human2humanoid.com/.** _(I'm shameless: this is my own work.)_  
 - Xinyang Gu, Yen-Jen Wang, Jianyu Chen. "Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer." (2024 https://arxiv.org/abs/2404.05695, https://github.com/roboterax/humanoid-gym).
-- **van Marum, Bart, et al. "Revisiting Reward Design and Evaluation for Robust Humanoid Standing and Walking." arXiv preprint arXiv:2404.19173 (2024).**
+- van Marum, Bart, et al. "Revisiting Reward Design and Evaluation for Robust Humanoid Standing and Walking." arXiv preprint arXiv:2404.19173 (2024).
 - **Tirumala, Dhruva, et al. "Learning Robot Soccer from Egocentric Vision with Deep Reinforcement Learning." arXiv preprint arXiv:2405.02425 (2024).**     
 
 
