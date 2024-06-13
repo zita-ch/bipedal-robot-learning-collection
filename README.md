@@ -33,10 +33,13 @@
 - Cheng, Xuxin, et al. "Expressive Whole-Body Control for Humanoid Robots." arXiv preprint arXiv:2402.16796 (2024). 
 - Zhang, Qiang, et al. "Whole-body Humanoid Robot Locomotion with Human Reference." arXiv preprint arXiv:2402.18294 (2024). 
 - Radosavovic, I., Zhang, B., Shi, B., Rajasegaran, J., Kamat, S., Darrell, T., … Malik, J. (2024). Humanoid Locomotion as Next Token Prediction. arXiv preprint arXiv: 2402.19469 (2024).     
-- **He, T., Luo, Z., Xiao, W., Zhang, C., Kitani, K., Liu, C., & Shi, G. (2024). Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation. https://human2humanoid.com/.** _(I'm shameless: this is my own work.)_  
+- **He, T., Luo, Z., Xiao, W., Zhang, C., Kitani, K., Liu, C., & Shi, G. (2024). Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation. https://human2humanoid.com/.**  
+- Fu, Zipeng, et al. HumanPlus: Humanoid Shadowing and Imitation from Humans. https://humanoid-ai.github.io/   
+- **He, Tairan, et al. OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning. https://omni.human2humanoid.com/**    
 - Xinyang Gu, Yen-Jen Wang, Jianyu Chen. "Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer." (2024 https://arxiv.org/abs/2404.05695, https://github.com/roboterax/humanoid-gym).
 - van Marum, Bart, et al. "Revisiting Reward Design and Evaluation for Robust Humanoid Standing and Walking." arXiv preprint arXiv:2404.19173 (2024).
-- **Tirumala, Dhruva, et al. "Learning Robot Soccer from Egocentric Vision with Deep Reinforcement Learning." arXiv preprint arXiv:2405.02425 (2024).**     
+- **Tirumala, Dhruva, et al. "Learning Robot Soccer from Egocentric Vision with Deep Reinforcement Learning." arXiv preprint arXiv:2405.02425 (2024).**
+- **Zhang, Chong, et al. WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts. https://lecar-lab.github.io/wococo/**       
 
 
 
