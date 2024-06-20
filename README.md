@@ -39,7 +39,9 @@
 - Xinyang Gu, Yen-Jen Wang, Jianyu Chen. "Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer." (2024 https://arxiv.org/abs/2404.05695, https://github.com/roboterax/humanoid-gym).
 - van Marum, Bart, et al. "Revisiting Reward Design and Evaluation for Robust Humanoid Standing and Walking." arXiv preprint arXiv:2404.19173 (2024).
 - **Tirumala, Dhruva, et al. "Learning Robot Soccer from Egocentric Vision with Deep Reinforcement Learning." arXiv preprint arXiv:2405.02425 (2024).**
-- **Zhang, Chong, et al. WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts. https://lecar-lab.github.io/wococo/**       
+- **Zhang, Chong, et al. WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts. https://lecar-lab.github.io/wococo/ (2024)**
+- **Zhuang, Ziwen, et al. Humanoid Parkour Learning. https://humanoid4parkour.github.io/ (2024)**
+- **Fu, Z., Zhao, Q., Wu, Q., Wetzstein, G., & Finn, C. (2024). HumanPlus: Humanoid Shadowing and Imitation from Humans. arXiv. (2024)**   
 
 
 
