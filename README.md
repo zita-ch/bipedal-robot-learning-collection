@@ -41,8 +41,8 @@
 - **Tirumala, Dhruva, et al. "Learning Robot Soccer from Egocentric Vision with Deep Reinforcement Learning." arXiv preprint arXiv:2405.02425 (2024).**
 - **Zhang, Chong, et al. WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts. https://lecar-lab.github.io/wococo/ (2024)**
 - **Zhuang, Ziwen, et al. Humanoid Parkour Learning. https://humanoid4parkour.github.io/ (2024)**
-- **Fu, Z., Zhao, Q., Wu, Q., Wetzstein, G., & Finn, C. (2024). HumanPlus: Humanoid Shadowing and Imitation from Humans. arXiv. (2024)**   
-
+- **Fu, Z., Zhao, Q., Wu, Q., Wetzstein, G., & Finn, C. (2024). HumanPlus: Humanoid Shadowing and Imitation from Humans. arXiv. (2024)**
+- **Xinyang Gu, et al. Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning. RSS 2024.**    
 
 
 
