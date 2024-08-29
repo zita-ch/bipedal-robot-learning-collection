@@ -42,7 +42,8 @@
 - **Zhang, Chong, et al. WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts. https://lecar-lab.github.io/wococo/ (2024)**
 - **Zhuang, Ziwen, et al. Humanoid Parkour Learning. https://humanoid4parkour.github.io/ (2024)**
 - **Fu, Z., Zhao, Q., Wu, Q., Wetzstein, G., & Finn, C. (2024). HumanPlus: Humanoid Shadowing and Imitation from Humans. arXiv. (2024)**
-- **Xinyang Gu, et al. Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning. RSS 2024.**    
+- **Xinyang Gu, et al. Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning. RSS 2024.**
+- Dugar, Pranay, et al. "Learning Multi-Modal Whole-Body Control for Real-World Humanoid Robots." arXiv preprint arXiv:2408.07295 (2024).    
 
 
 
