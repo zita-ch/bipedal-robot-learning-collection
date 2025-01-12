@@ -129,3 +129,5 @@ Humanoids share the human morph, so a natural idea is to using human data for hu
 + He et al. Hover: Versatile neural whole-body controller for humanoid robots. arXiv 2024. 
 
 + Lu et al. Mobile-television: Predictive motion priors for humanoid whole-body control. arXiv 2024.
+
++ Ji et al. ExBody2: Advanced Expressive Humanoid Whole-Body Control. arXiv 2024.
