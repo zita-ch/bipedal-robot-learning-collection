@@ -105,6 +105,8 @@ The community is not satisfied with only balancing. We want loco-manipulation, w
 
 + Zhuang et al. Humanoid Parkour Learning. CoRL 2024.
 
++ Pandit et al. Learning Decentralized Multi-Biped Control for Payload Transport. CoRL 2024.
+
 ## Human2Humanoid  
 Humanoids share the human morph, so a natural idea is to using human data for humanoid control. This can involve two types of works: 1) make humanoids move like humans, and 2) help humans teleoperate humanoids and collect data.
 
