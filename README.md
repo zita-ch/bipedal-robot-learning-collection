@@ -8,7 +8,7 @@
   
 
 ## Balance
-This category is named after Marc Raibert's book, _Legged Robots that Balance_. The papers in this category makes the main line of bipedal locomotion: to balance on any terrain in the wild. In this line, the focus is to learn the locomotion capability, and there are three subtopics: 1) hybrid methods with model-based heuristics, 2) end-to-end learning, and 3) engineering choices that matter. For studies on sim-to-real transfer using POMDP formulations, please refer to the `Adaptation` category. 
+This category is named after Marc Raibert's book, _Legged Robots that Balance_. The papers in this category makes the main line of bipedal locomotion: to balance on any terrain in the wild. In this line, the focus is to learn the locomotion capability, and there are three subtopics: 1) hybrid methods with model-based heuristics, 2) end-to-end learning, and 3) hardware and algorithmic engineering choices that matter. For studies on sim-to-real transfer using POMDP formulations, please refer to the `Adaptation` category. 
 
 + Li et al. Using deep reinforcement learning to learn high-level policies on the atrias biped. ICRA 2019.
 
@@ -52,7 +52,12 @@ This category is named after Marc Raibert's book, _Legged Robots that Balance_. 
 
 + van Marum et al. Revisiting Reward Design and Evaluation for Robust Humanoid Standing and Walking. IROS 2024.
 
++ Liao et al. Berkeley Humanoid: A Research Platform for Learning-based Control. arXiv 2024.
+
++ Xia et al. The duke humanoid: Design and control for energy efficient bipedal locomotion using passive dynamics. arXiv 2024.
+
 + My own work. Learning Generalized Legged Locomotion. to be released 2024/2025.
+
 
 
 ## Adaptation
