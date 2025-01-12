@@ -1,87 +1,124 @@
 # bipedal-robot-learning-collection 
 
-+ This repo is a collection for high-quality robotics papers, with specialization on **bipedal robots** and **reinforcement learning** with **real robot experiments**. Papers on common learning techniques verified on quadrupedal robots, Bayesian optimization, CBF learning, etc., are temporarily excluded.       
++ This repo is a collection for high-quality robotics papers, with specialization on **bipedal locomotion** and **reinforcement learning** with **real robot experiments**. I hope this can do a service for easy writing of literature review in papers. 
 
-+ I hope this can do a service for easy writing of literature review in papers. Abstracts or brief descriptions will later be added.     
++ I separate the papers into the different categories: `Balance`, `Adaptation`, `Skillful`, `Human2Humanoid`. Welcome to contribute by nominating new papers in Issues. Last update: Jan 12 2025.    
 
-+ Welcome to contribute by nominating new papers in Issues.    
-
-+ The list currently misses the ones in/after CoRL 2024.   
++ For all relevant papers before CoRL 2024, there is a complete list in branch `archive/beforeCoRL2024`. Due to the explosive increase in the number of papers, I am not maintaining a full list of all the papers.
   
 
-##### In and after 2023, bold: highly recommended by me
+## Balance
+This category is named after Marc Raibert's book, _Legged Robots that Balance_. The papers in this category makes the main line of bipedal locomotion: to balance on any terrain in the wild. In this line, the focus is to learn the locomotion capability, and there are three subtopics: 1) hybrid methods with model-based heuristics, 2) end-to-end learning, and 3) engineering choices that matter. For studies on sim-to-real transfer using POMDP formulations, please refer to the `Adaptation` category. 
 
----
++ Li et al. Using deep reinforcement learning to learn high-level policies on the atrias biped. ICRA 2019.
 
-- Singh, Rohan P., et al. "Learning bipedal walking for humanoids with current feedback." *IEEE Access* (2023).
-- Radosavovic, Ilija, et al. "Real-world humanoid locomotion with reinforcement learning." Science Robotics 9.89 (2024): eadi9579. *(I recommend reading arxiv 2303.03381 v1 for more technical details despite some later-revised contents)*  
-- Jeon, Se Hwan, et al. "Benchmarking potential based rewards for learning humanoid locomotion." *2023 IEEE International Conference on Robotics and Automation (ICRA)*. IEEE, 2023.
-- C. -Y. Kuo, H. Shin and T. Matsubara, "Reinforcement Learning With Energy-Exchange Dynamics for Spring-Loaded Biped Robot Walking," in *IEEE Robotics and Automation Letters*, vol. 8, no. 10, pp. 6243-6250, Oct. 2023
-- **Dao, Jeremy, Helei Duan, and Alan Fern. "Sim-to-Real Learning for Humanoid Box Loco-Manipulation." *arXiv preprint arXiv:2310.03191* (2023).**
-- J. Ding, T. L. Lam, L. Ge, J. Pang and Y. Huang, "Safe and Adaptive 3-D Locomotion via Constrained Task-Space Imitation Learning," in *IEEE/ASME Transactions on Mechatronics*, vol. 28, no. 6, pp. 3029-3040, Dec. 2023
-- Chen, Yu-Ming, Hien Bui, and Michael Posa. "Reinforcement Learning for Reduced-order Models of Legged Robots." *arXiv preprint arXiv:2310.09873* (2023).
-- Smith, Laura, et al. "Learning and adapting agile locomotion skills by transferring experience." *arXiv preprint arXiv:2304.09834* (2023).
-- Chun, Yeonghun, et al. "DDPG Reinforcement Learning Experiment for Improving the Stability of Bipedal Walking of Humanoid Robots." *2023 IEEE/SICE International Symposium on System Integration (SII)*. IEEE, 2023.
-- Qin, Daoling, et al. "A Heuristics-Based Reinforcement Learning Method to Control Bipedal Robots." *International Journal of Humanoid Robotics* 2350013 (2023): 22.
-- **Shi, F. *et al.* (2023). Reference-Free Learning Bipedal Motor Skills via Assistive Force Curricula. In: Billard, A., Asfour, T., Khatib, O. (eds) Robotics Research. ISRR 2022. Springer Proceedings in Advanced Robotics, vol 27. Springer, Cham.**
-- Kim, Donghyeon, et al. "Torque-based Deep Reinforcement Learning for Task-and-Robot Agnostic Learning on Bipedal Robots Using Sim-to-Real Transfer." *arXiv preprint arXiv:2304.09434* (2023).
-- **Duan, Helei, et al. "Learning Vision-Based Bipedal Locomotion for Challenging Terrain." *arXiv preprint arXiv:2309.14594* (2023).**
-- **Li, Zhongyu, et al. "Reinforcement Learning for Versatile, Dynamic, and Robust Bipedal Locomotion Control." *arXiv preprint arXiv:2401.16889* (2024).**
-- **Li, Zhongyu, et al. "Robust and versatile bipedal jumping control through multi-task reinforcement learning." *arXiv preprint arXiv:2302.09450* (2023).**
-- Li, Yunfei, et al. "Learning Agile Bipedal Motions on a Quadrupedal Robot." *arXiv preprint arXiv:2311.05818* (2023).
-- **Haarnoja, Tuomas, et al. "Learning agile soccer skills for a bipedal robot with deep reinforcement learning." Science Robotics 9.89 (2024): eadi8022.**  
-- Castillo, Guillermo A., et al. "Template model inspired task space learning for robust bipedal locomotion." *2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. IEEE, 2023.
-- Cheng, Xuxin, et al. "Expressive Whole-Body Control for Humanoid Robots." arXiv preprint arXiv:2402.16796 (2024). 
-- Zhang, Qiang, et al. "Whole-body Humanoid Robot Locomotion with Human Reference." arXiv preprint arXiv:2402.18294 (2024). 
-- Radosavovic, I., Zhang, B., Shi, B., Rajasegaran, J., Kamat, S., Darrell, T., … Malik, J. (2024). Humanoid Locomotion as Next Token Prediction. arXiv preprint arXiv: 2402.19469 (2024).     
-- **He, T., Luo, Z., Xiao, W., Zhang, C., Kitani, K., Liu, C., & Shi, G. (2024). Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation. https://human2humanoid.com/.**  
-- Fu, Zipeng, et al. HumanPlus: Humanoid Shadowing and Imitation from Humans. https://humanoid-ai.github.io/   
-- **He, Tairan, et al. OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning. https://omni.human2humanoid.com/**    
-- Xinyang Gu, Yen-Jen Wang, Jianyu Chen. "Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer." (2024 https://arxiv.org/abs/2404.05695, https://github.com/roboterax/humanoid-gym).
-- van Marum, Bart, et al. "Revisiting Reward Design and Evaluation for Robust Humanoid Standing and Walking." arXiv preprint arXiv:2404.19173 (2024).
-- **Tirumala, Dhruva, et al. "Learning Robot Soccer from Egocentric Vision with Deep Reinforcement Learning." arXiv preprint arXiv:2405.02425 (2024).**
-- **Zhang, Chong, et al. WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts. https://lecar-lab.github.io/wococo/ (2024)**
-- **Zhuang, Ziwen, et al. Humanoid Parkour Learning. https://humanoid4parkour.github.io/ (2024)**
-- **Fu, Z., Zhao, Q., Wu, Q., Wetzstein, G., & Finn, C. (2024). HumanPlus: Humanoid Shadowing and Imitation from Humans. arXiv. (2024)**
-- **Xinyang Gu, et al. Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning. RSS 2024.**
-- Dugar, Pranay, et al. "Learning Multi-Modal Whole-Body Control for Real-World Humanoid Robots." arXiv preprint arXiv:2408.07295 (2024).    
++ Xie et al. Learning locomotion skills for cassie: Iterative design and sim-to-real. CoRL 2020.
+
++ Kevin et al. Learning spring mass locomotion: Guiding policies with a reduced-order model. RAL 2021.
+
++ Rodriguez et al. DeepWalk: Omnidirectional bipedal gait by deep reinforcement learning. ICRA 2021.
+
++ Li et al. Reinforcement learning for robust parameterized locomotion control of bipedal robots. ICRA 2021.
+
++ Duan et al. Learning task space actions for bipedal locomotion. ICRA 2021.
+
++ Siekmann et al. Sim-to-real learning of all common bipedal gaits via periodic reward composition. ICRA 2021.
+
++ Castillo et al. Robust feedback motion policy design using reinforcement learning on a 3D digit bipedal robot. IROS 2021.
+
++ Duan et al. Sim-to-Real Learning of Footstep-Constrained Bipedal Dynamic Walking. ICRA 2022.
+
++ Rajan et al. Linear Policies are Sufficient to Realize Robust Bipedal Walking on Challenging Terrains. RAL 2022.
+
++ Duan et al. Learning Dynamic Bipedal Walking Across Stepping Stones. IROS 2022.
+
++ Michael et al. Towards Real Robot Learning in the Wild: A Case Study in Bipedal Locomotion. CoRL 2022.
+
++ Batke et al. Optimizing Bipedal Maneuvers of Single Rigid-Body Models for Reinforcement Learning. Humanoids 2022.
+
++ Singh et al. Learning Bipedal Walking On Planned Footsteps For Humanoid Robots. Humanoids 2022.
+
++ Shi et al. Reference-Free Learning Bipedal Motor Skills via Assistive Force Curricula. ISRR 2022.
+
++ Heon et al. Benchmarking potential based rewards for learning humanoid locomotion. ICRA 2023.
+
++ Castillo et al. Template model inspired task space learning for robust bipedal locomotion. IROS 2023.
+
++ Kim et al. Torque-based Deep Reinforcement Learning for Task-and-Robot Agnostic Learning on Bipedal Robots Using Sim-to-Real Transfer. RAL 2023.
+
++ Duan et al. Learning vision-based bipedal locomotion for challenging terrain. ICRA 2024.
+
++ Chen et al. Reinforcement learning for reduced-order models of legged robots. ICRA 2024.
+
++ van Marum et al. Revisiting Reward Design and Evaluation for Robust Humanoid Standing and Walking. IROS 2024.
+
++ My own work. Learning Generalized Legged Locomotion. to be released 2024/2025.
 
 
+## Adaptation
+Real-world deployments often face the uncertainties in robot dynamics and sensing. Therefore, a wise way is to be adaptive to these uncertainties, which is mostly achieved by utilizing the history data. Some of the works can focus on skills, but they stand out with decent sim-to-real transfer via adaptation.
 
-##### before 2023
++ Yu et al. Sim-to-real transfer for biped locomotion. IROS 2019.
 
-------
++ Siekmann et al. Learning Memory-Based Control for Human-Scale Bipedal Locomotion. RSS 2020.
 
-+ Cassie and Digit   
-  The cassie simulatoin environment: [link](https://github.com/osudrl/cassie-mujoco-sim)     
-  - **Xie, Zhaoming, et al. "Feedback control for cassie with deep reinforcement learning." 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2018.** _(first biped end2end work)_    
-  - Xie, Zhaoming, et al. "Learning locomotion skills for cassie: Iterative design and sim-to-real." Conference on Robot Learning. PMLR, 2020.   
-  - Siekmann, Jonah, et al. "Learning Memory-Based Control for Human-Scale Bipedal Locomotion." Robotics science and systems. 2020.
-  - **Siekmann, Jonah, et al. "Blind bipedal stair traversal via sim-to-real reinforcement learning." Robotics science and systems. 2021.**  
-  - **Green, Kevin, et al. "Learning spring mass locomotion: Guiding policies with a reduced-order model." IEEE Robotics and Automation Letters 6.2 (2021): 3926-3932.**
-  - **Li, Zhongyu, et al. "Reinforcement learning for robust parameterized locomotion control of bipedal robots." 2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021.** 
-  - **Duan, Helei, et al. "Learning task space actions for bipedal locomotion." 2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021.**  
-  - **Siekmann, Jonah, et al. "Sim-to-real learning of all common bipedal gaits via periodic reward composition." 2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021.**  
-  - Castillo, Guillermo A., et al. "Robust feedback motion policy design using reinforcement learning on a 3D digit bipedal robot." 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2021.
-  - Dao, Jeremy, et al. "Sim-to-Real Learning for Bipedal Locomotion Under Unsensed Dynamic Loads." 2022 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2022.  
-  - **Duan, Helei, et al. "Sim-to-Real Learning of Footstep-Constrained Bipedal Dynamic Walking." 2022 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2022.**  
-  - Rajan, Lokesh Krishna, et al. "Linear Policies are Sufficient to Realize Robust Bipedal Walking on Challenging Terrains." IEEE Robotics and Automation Letters (2022).  
-  - Duan, Helei, et al. "Learning Dynamic Bipedal Walking Across Stepping Stones." arXiv preprint arXiv:2205.01807 (2022). 
-  - Kumar, Ashish, et al. "Adapting Rapid Motor Adaptation for Bipedal Robots." arXiv preprint arXiv:2205.15299 (2022).  
-  - Batke, Ryan, et al. "Optimizing Bipedal Maneuvers of Single Rigid-Body Models for Reinforcement Learning." arXiv preprint arXiv:2207.04163 (2022).   
-  - Yu, Fangzhou, et al. "Dynamic Bipedal Maneuvers through Sim-to-Real Reinforcement Learning." arXiv preprint arXiv:2207.07835 (2022).  
-  - More to be added
-+ Darwin OPx  
-  - Yu, Wenhao, et al. "Sim-to-real transfer for biped locomotion." 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2019.
-  - Bloesch, Michael, et al. "Towards Real Robot Learning in the Wild: A Case Study in Bipedal Locomotion." Conference on Robot Learning. PMLR, 2022.
-  - Bohez, Steven, et al. "Imitate and Repurpose: Learning Reusable Robot Movement Skills From Human and Animal Behaviors." arXiv preprint arXiv:2203.17138 (2022).
-  - Masuda, Shimpei, and Kuniyuki Takahashi. "Sim-to-Real Learning of Robust Compliant Bipedal Locomotion on Torque Sensor-Less Gear-Driven Humanoid." arXiv preprint arXiv:2204.03897 (2022).  
-  - Byravan, Arunkumar, et al. "NeRF2Real: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields." arXiv preprint arXiv:2210.04932 (2022).  
-  - More to be added
-+ Other Platforms  
-  - Li, Tianyu, et al. "Using deep reinforcement learning to learn high-level policies on the atrias biped." 2019 International Conference on Robotics and Automation (ICRA). IEEE, 2019.
-  - **Rodriguez, Diego, and Sven Behnke. "DeepWalk: Omnidirectional bipedal gait by deep reinforcement learning." 2021 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2021.** _(first adule-size humanoid end2end learning with real world results)_   
-  - Yu, Chen, and Andre Rosendo. "Multi-Modal Legged Locomotion Framework with Automated Residual Reinforcement Learning." arXiv preprint arXiv:2202.12033 (2022).  
-  - Singh, Rohan Pratap, et al. "Learning Bipedal Walking On Planned Footsteps For Humanoid Robots." arXiv preprint arXiv:2207.12644 (2022).   
-  - Gams, A., Petrič, T., Nemec, B. *et al.* Manipulation Learning on Humanoid Robots. *Curr Robot Rep* **3**, 97–109 (2022). https://doi.org/10.1007/s43154-022-00082-9
-  - Shi, Fan, et al. "Learning agile hybrid whole-body motor skills for thruster-aided humanoid robots." *2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. IEEE, 2022.
++ Siekmann et al. Blind bipedal stair traversal via sim-to-real reinforcement learning. RSS 2021.
+
++ Dao et al. Sim-to-Real Learning for Bipedal Locomotion Under
+Unsensed Dynamic Loads. ICRA 2022.  
+
++ Kumar et al. Adapting Rapid Motor Adaptation for Bipedal Robots. IROS 2022.  
+
++ Li et al. Robust and versatile bipedal jumping control through multi-task reinforcement learning. RSS 2023.
+
++ Li et al. Reinforcement Learning for Versatile, Dynamic, and Robust Bipedal Locomotion Control. IJRR 2024.
+
++ Gu et al. Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning. RSS 2024.
+
++ Wang et al. Toward Understanding Key Estimation in Learning Robust Humanoid Locomotion. IROS 2024.
+
++ Radosavovic et al. Real-world humanoid locomotion with reinforcement learning. Science Robotics 2024.
+
++ Radosavovic et al. Learning Humanoid Locomotion over Challenging Terrain. arXiv 2024.
+
++ Long et al. Learning Humanoid Locomotion with Perceptive Internal Model. arXiv 2024.
+
+## Skillful
++ The community is not satisfied with only balancing. We want loco-manipulation, we want parkour. A special focus here is how to design the rewards, and the framework, on top of sim-to-real transfer.
+
++ Shi et al. Learning agile hybrid whole-body motor skills for thruster-aided humanoid robots. IROS 2022. 
+
++ Yu et al. Dynamic Bipedal Maneuvers through Sim-to-Real Reinforcement Learnin. Humanoids 2022.
+
++ Dao et al. Sim-to-Real Learning for Humanoid Box Loco-Manipulation. ICRA 2024.
+
++ Haarnoja et al. Learning agile soccer skills for a bipedal robot with deep reinforcement learning. Science Robotics 2024.
+
++ Dhruva et al. Learning Robot Soccer from Egocentric Vision with Deep Reinforcement Learning. CoRL 2024.
+
++ Zhang et al. WoCoCo: Learning Whole-Body Humanoid Control with Sequential Contacts. CoRL 2024.
+
++ Zhuang et al. Humanoid Parkour Learning. CoRL 2024.
+
+## Human2Humanoid  
+Humanoids share the human morph, so a natural idea is to using human data for humanoid control. This can involve two types of works: 1) make humanoids move like humans, and 2) help humans teleoperate humanoids and collect data.
+
++ Bohez et al. Imitate and Repurpose: Learning Reusable Robot Movement Skills From Human and Animal Behaviors. arXiv 2022.
+
++ Tang et al. HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation. ICRA 2024.
+
++ Cheng et al. Expressive Whole-Body Control for Humanoid Robots. RSS 2024.
+
++ Zhang et al. Whole-body Humanoid Robot Locomotion with Human Reference. IROS 2024.
+
++ He et al. Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation. IROS 2024.
+
++ He et al. OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning. CoRL 2024.
+
++ Fu et al. HumanPlus: Humanoid Shadowing and Imitation from Humans. CoRL 2024.
+
++ Dugar et al. Learning Multi-Modal Whole-Body Control for Real-World Humanoid Robots. arXiv 2024.
+
++ He et al. Hover: Versatile neural whole-body controller for humanoid robots. arXiv 2024. 
+
++ Lu et al. Mobile-television: Predictive motion priors for humanoid whole-body control. arXiv 2024.
