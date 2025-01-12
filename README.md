@@ -84,7 +84,7 @@ Unsensed Dynamic Loads. ICRA 2022.
 + Long et al. Learning Humanoid Locomotion with Perceptive Internal Model. arXiv 2024.
 
 ## Skillful
-+ The community is not satisfied with only balancing. We want loco-manipulation, we want parkour. A special focus here is how to design the rewards, and the framework, on top of sim-to-real transfer.
+The community is not satisfied with only balancing. We want loco-manipulation, we want parkour. A special focus here is how to design the rewards, and the framework, on top of sim-to-real transfer.
 
 + Shi et al. Learning agile hybrid whole-body motor skills for thruster-aided humanoid robots. IROS 2022. 
 
