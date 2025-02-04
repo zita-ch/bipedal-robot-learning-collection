@@ -131,3 +131,7 @@ Humanoids share the human morph, so a natural idea is to using human data for hu
 + Lu et al. Mobile-television: Predictive motion priors for humanoid whole-body control. arXiv 2024.
 
 + Ji et al. ExBody2: Advanced Expressive Humanoid Whole-Body Control. arXiv 2024.
+
++ He et al. ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills. arXiv 2025.
+
++ Zhuang et al. Embrace Collisions: Humanoid Shadowing for Deployable Contact-Agnostics Motions. arXiv 2025.
