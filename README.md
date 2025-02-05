@@ -56,7 +56,9 @@ This category is named after Marc Raibert's book, _Legged Robots that Balance_. 
 
 + Xia et al. The duke humanoid: Design and control for energy efficient bipedal locomotion using passive dynamics. arXiv 2024.
 
-+ My own work. Learning Generalized Legged Locomotion. to be released 2024/2025.
++ Xue et al. HugWBC: A Unified and General Humanoid Whole-Body Controller for Fine-Grained Locomotion. arXiv 2025.  
+
++ My own work. Learning Generalized Legged Locomotion. to be released 2025.
 
 
 
