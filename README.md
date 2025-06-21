@@ -56,9 +56,9 @@ This category is named after Marc Raibert's book, _Legged Robots that Balance_. 
 
 + Xia et al. The Duke humanoid: Design and control for energy efficient bipedal locomotion using passive dynamics. arXiv 2024. [[paper](https://arxiv.org/pdf/2409.19795)] [[website](http://www.generalroboticslab.com/blogs/blog/2024-09-29-dukehumanoidv1/index.html)] [[code](https://github.com/generalroboticslab/DukeHumanoidv1)]
 
-+ Xue et al. HugWBC: A Unified and General Humanoid Whole-Body Controller for Fine-Grained Locomotion. arXiv 2025. [[paper](https://arxiv.org/pdf/2502.03206)] [[website](https://hugwbc.github.io/)]
++ Xue et al. HugWBC: A Unified and General Humanoid Whole-Body Controller for Fine-Grained Locomotion. RSS 2025. [[paper](https://arxiv.org/pdf/2502.03206)] [[website](https://hugwbc.github.io/)]
 
-+ My own work. Learning Generalized Legged Locomotion. to be released 2025.
++ He et al. Attention-Based Map Encoding for Learning Generalized Legged Locomotion. arXiv 2025. [[paper](https://arxiv.org/abs/2506.09588)]   
 
 
 
@@ -108,6 +108,16 @@ The community is not satisfied with only balancing. We want loco-manipulation, w
 
 + Pandit et al. Learning Decentralized Multi-Biped Control for Payload Transport. CoRL 2024. [[paper](https://arxiv.org/pdf/2406.17279)] [[website](https://decmbc.github.io/)] [[code](https://github.com/osudrl/decentralized_multibiped_controller)]
 
++ He et al. Learning getting-up policies for real-world humanoid robots. RSS 2025. [[paper](https://arxiv.org/abs/2502.12152)] [[website](https://humanoid-getup.github.io/)] [[code](https://github.com/RunpeiDong/humanup)]  
+
++ Huang et al. Learning Humanoid Standing-up Control across Diverse Postures. RSS 2025. [[paper](https://arxiv.org/abs/2502.08378)] [[website](https://taohuang13.github.io/humanoid-standingup.github.io/)] [[code](https://github.com/OpenRobotLab/HoST)]    
+
++ Zhang et al. FALCON: Learning Force-Adaptive Humanoid Loco-Manipulation. arXiv 2025. [[paper](https://arxiv.org/abs/2505.06776)] [[website](https://lecar-lab.github.io/falcon-humanoid/)] [[code](https://github.com/LeCAR-Lab/FALCON/)]   
+
++ Xue et al. LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction. arXiv 2025. [[paper](https://arxiv.org/abs/2506.13751)]
+
++ Li et al. Hold My Beer: Learning Gentle Humanoid Locomotion and End-Effector Stabilization Control. arXiv 2025. [[paper](https://lecar-lab.github.io/SoFTA/resources/Main-Paper.pdf)] [[website](https://lecar-lab.github.io/SoFTA/)]
+
 ## Human2Humanoid  
 Humanoids share the human morph, so a natural idea is to using human data for humanoid control. This can involve two types of works: 1) make humanoids move like humans, and 2) help humans teleoperate humanoids and collect data.
 
@@ -133,6 +143,10 @@ Humanoids share the human morph, so a natural idea is to using human data for hu
 
 + Ji et al. ExBody2: Advanced Expressive Humanoid Whole-Body Control. arXiv 2024. [[paper](https://arxiv.org/pdf/2412.13196)] [[website](https://exbody2.github.io/)]
 
-+ He et al. ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills. arXiv 2025. [[paper](https://arxiv.org/pdf/2502.01143)] [[website](https://agile.human2humanoid.com/)] [[code](https://github.com/LeCAR-Lab/ASAP)]
++ He et al. ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills. RSS 2025. [[paper](https://arxiv.org/pdf/2502.01143)] [[website](https://agile.human2humanoid.com/)] [[code](https://github.com/LeCAR-Lab/ASAP)]
 
 + Zhuang et al. Embrace Collisions: Humanoid Shadowing for Deployable Contact-Agnostics Motions. arXiv 2025. [[paper](https://arxiv.org/pdf/2502.01465)] [[website](https://project-instinct.github.io/)]
+
++ Li et al. AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control. RSS 2025. [[paper](https://roboticsconference.org/program/papers/61/)] [[website](https://amo-humanoid.github.io/)]   
+
++ Chen et al. GMT: General Motion Tracking for Humanoid Whole-Body Control. arXiv 2025. [[paper](https://arxiv.org/abs/2506.14770)] [[website](https://gmt-humanoid.github.io/)]  
