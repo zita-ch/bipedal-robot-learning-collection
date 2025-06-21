@@ -2,7 +2,7 @@
 
 + This repo is a collection for high-quality robotics papers, with specialization on **bipedal locomotion** and **reinforcement learning** with **real robot experiments**. I hope this can do a service for easy writing of literature review in papers. 
 
-+ I separate the papers into the different categories: `Balance`, `Adaptation`, `Skillful`, `Human2Humanoid`. Welcome to contribute by nominating new papers in Issues. Last update: Jan 12 2025.    
++ I separate the papers into the different categories: `Balance`, `Adaptation`, `Skillful`, `Human2Humanoid`. Welcome to contribute by nominating new papers in Issues. Last update: June 21 2025.    
 
 + For all relevant papers before CoRL 2024, there is a complete list in branch `archive/beforeCoRL2024`. Due to the explosive increase in the number of papers, I am not maintaining a full list of all the papers.
   
