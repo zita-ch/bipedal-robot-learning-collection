@@ -58,7 +58,7 @@ This category is named after Marc Raibert's book, _Legged Robots that Balance_. 
 
 + Xue et al. HugWBC: A Unified and General Humanoid Whole-Body Controller for Fine-Grained Locomotion. RSS 2025. [[paper](https://arxiv.org/pdf/2502.03206)] [[website](https://hugwbc.github.io/)]
 
-+ He et al. Attention-Based Map Encoding for Learning Generalized Legged Locomotion. arXiv 2025. [[paper](https://arxiv.org/abs/2506.09588)]   
++ He et al. Attention-Based Map Encoding for Learning Generalized Legged Locomotion. Science Robotics 2025. [[paper](https://www.science.org/stoken/author-tokens/ST-2851/full)]   
 
 
 
