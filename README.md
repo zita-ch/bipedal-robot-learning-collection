@@ -120,6 +120,8 @@ The community is not satisfied with only balancing. We want loco-manipulation, w
 
 + Xie et al. KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills. arXiv 2025. [[paper](https://arxiv.org/abs/2506.12851)] [[website](https://kungfu-bot.github.io/)]
 
++ Cho et al. SafeFlow: Real-Time Text-Driven Humanoid Whole-Body Control via Physics-Guided Rectified Flow and Selective Safety Gating. arXiv 2026. [[paper](https://arxiv.org/abs/2603.23983)] [[website](https://hanbyelcho.info/safeflow/)]
+
 ## Human2Humanoid  
 Humanoids share the human morph, so a natural idea is to using human data for humanoid control. This can involve two types of works: 1) make humanoids move like humans, and 2) help humans teleoperate humanoids and collect data.
 
